@@ -3,4 +3,10 @@
 
 'restaurant.py'：获取指定以指定中心的指定半径内的所有饭店
 
-'find_restaurant.py': 从'places.json'中，随机生成一个饭店和它的评分，太烂的话就别去吃了。
+'find_restaurant.py': 从'places.json'中，随机生成一个饭店和它的评分，太烂的话就别去吃了（当然也可以吃完告诉我你的感想）。
+
+Before using this selector, you need to obtain a Google Maps API key. If you prefer not to modify any code, you should set the API key as an environment variable named 'GOOGLE_MAP_API_KEY'. Of course, if you are a UCDavis student standing near downtown and looking to choose a restaurant there, you can skip the setup steps. The 'places.json' file contains all the restaurants within a one-kilometer radius from what I estimate to be the center of downtown Davis. This is set up because I often want to eat in downtown but don't know where to go.
+
+'restaurant.py': Retrieves all restaurants within a specified radius from a specified center.
+
+'find_restaurant.py': Randomly selects a restaurant and its rating from 'places.json'. If the rating is too low, you might want to avoid it.
