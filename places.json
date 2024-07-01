@@ -1,0 +1,1077 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.5409644,
+        "lng": -121.7371932
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5423674802915,
+          "lng": -121.7359070197085
+        },
+        "southwest": {
+          "lat": 38.5396695197085,
+          "lng": -121.7386049802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "In-N-Out Burger",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107430642889837246942\">Victor Chiu</a>"
+        ],
+        "photo_reference": "AUc7tXUvRJb35Uiv7irTaqgAC16Z5sSuyUZk2jSVM5z8jNkQhtdoHTPIQyE4vx911sxdVIehOhZ5xXG0bsjPib3OUBSC3wDnSnPrwg6YvohIW4K3JgbJ9qf_9YBazi7bEM74UoEm4X-4BQHW_46Hh5ozA0KnIjudlEF02sAun4x2vRDD1Mw9",
+        "width": 4048
+      }
+    ],
+    "place_id": "ChIJ46qybnIphYARtkwjkGo3I-g",
+    "plus_code": {
+      "compound_code": "G7R7+94 Davis, CA, USA",
+      "global_code": "84CWG7R7+94"
+    },
+    "price_level": 1,
+    "rating": 4.6,
+    "reference": "ChIJ46qybnIphYARtkwjkGo3I-g",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3723,
+    "vicinity": "1020 Olive Drive, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.5447678,
+        "lng": -121.7389368
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.54585928029149,
+          "lng": -121.7376693197085
+        },
+        "southwest": {
+          "lat": 38.5431613197085,
+          "lng": -121.7403672802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Woodstock's Pizza Davis",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2336,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108685095535692167150\">Woodstock&#39;s Pizza Davis</a>"
+        ],
+        "photo_reference": "AUc7tXVBEr13lC-lqfk9F-U_rNWzs4CgVxe0ZW2zPidj5q9BKCJA2Uhu006WghEC9JUaKc7hbMgFjmmvdcAYTPnqoLY-te8IU0GBn8HmbE72bTqPK8-edSVTaa9MkhX_ZxPpNP2Lg9Gcq99ypCq48ow21YIoxyp_DVIKs1j4MbgOu-c3GK2x",
+        "width": 3504
+      }
+    ],
+    "place_id": "ChIJ7S3xg3MphYAR5PDBO_23l-I",
+    "plus_code": {
+      "compound_code": "G7V6+WC Davis, CA, USA",
+      "global_code": "84CWG7V6+WC"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJ7S3xg3MphYAR5PDBO_23l-I",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1750,
+    "vicinity": "238 G Street, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.5439497,
+        "lng": -121.7438855
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5453701802915,
+          "lng": -121.7425584197085
+        },
+        "southwest": {
+          "lat": 38.5426722197085,
+          "lng": -121.7452563802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Crepeville",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1785,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110051773779769794332\">Hector Soto</a>"
+        ],
+        "photo_reference": "AUc7tXWJaOu8lvyLZV-ITSklacEZ5f9sY9M1Xv_zZcqy4FOlV5U3z07bM0UXauL6BjU6cdVWZehpgYXnwdIm3ilRgiCtNHjpX-0gkD3PPGyht_0zihaRW4Sq51zkm048XGlDaOHnZimNKIwRkpZaj06BAU4TUXLQmg8yX4D3KC8LxCC3L-HO",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJLY9oagsphYARWpjzMY0bqNc",
+    "plus_code": {
+      "compound_code": "G7V4+HC Davis, CA, USA",
+      "global_code": "84CWG7V4+HC"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJLY9oagsphYARWpjzMY0bqNc",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1450,
+    "vicinity": "330 3rd Street, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.5444047,
+        "lng": -121.7434823
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5456340302915,
+          "lng": -121.7422177197085
+        },
+        "southwest": {
+          "lat": 38.5429360697085,
+          "lng": -121.7449156802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Burgers and Brew",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112757072418903931954\">Matthew Griegel</a>"
+        ],
+        "photo_reference": "AUc7tXXsodSpuMvj-GJd3n6bRxtX3SLIEIvw5OkjRgcXyQ5lR1LWsYleizfo6zjEnh6FkOwpYsJyojXTk6wxPYO8Uz7HPy2KFa8GeJF84tqY4hWFdtsmHs6YRSl5NH2NbO-kPywozsPf203fQMdxS683NgfMyD__8LGn2yS2QY37tYFH2yLg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJu9RCPwsphYARP6M9AUNgJoI",
+    "plus_code": {
+      "compound_code": "G7V4+QJ Davis, CA, USA",
+      "global_code": "84CWG7V4+QJ"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJu9RCPwsphYARP6M9AUNgJoI",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2710,
+    "vicinity": "403 3rd Street, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.5440526,
+        "lng": -121.7415034
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5453899302915,
+          "lng": -121.7400427197085
+        },
+        "southwest": {
+          "lat": 38.5426919697085,
+          "lng": -121.7427406802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Chipotle Mexican Grill",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114475311202912305451\">Chris Waszak</a>"
+        ],
+        "photo_reference": "AUc7tXXmlgC97SQdJoiWuoHtjmv_5oAwOQwSskQii7tF--d3AVddnaUb2gJmdkN1_kTc7Tofx1nD6tsnUkAxgW_ViNhK7z-yAfm2gRDEoCDZZCC7UqtSNih1-wzh3_1LuLimRIeEbJSYDSYPF9zF7quVItuGgqKNgTtvdleNyVOSwnAkf2Pf",
+        "width": 4048
+      }
+    ],
+    "place_id": "ChIJ5U2DXnMphYARBiShZNvl6YA",
+    "plus_code": {
+      "compound_code": "G7V5+J9 Davis, CA, USA",
+      "global_code": "84CWG7V5+J9"
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reference": "ChIJ5U2DXnMphYARBiShZNvl6YA",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 664,
+    "vicinity": "227 E Street Ste 1, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.5428057,
+        "lng": -121.744703
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.54406203029149,
+          "lng": -121.7433061197085
+        },
+        "southwest": {
+          "lat": 38.5413640697085,
+          "lng": -121.7460040802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Black Bear Diner Davis",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104399059524799007909\">Gwen Brounce</a>"
+        ],
+        "photo_reference": "AUc7tXVVlo8YZcuzWPUKUiZMADKq8eBqO_Hhz4FtATnbasqmrhjQ2Bh3v5U7OExSMWRK4RhJ5ZcHBVoJyLHiIGmybGfG2Oi9SVzp0FsWAioKGdMDmO23uVm3ZtQtwEkrPcrbYh0qld9gGbf8Ia0oEn-pR2yhEKdludxF92PU5dpxKmcKvpdK",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJKdIZgwwphYARz__ktWk_ZU4",
+    "plus_code": {
+      "compound_code": "G7V4+44 Davis, CA, USA",
+      "global_code": "84CWG7V4+44"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJKdIZgwwphYARz__ktWk_ZU4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1590,
+    "vicinity": "255 2nd Street, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.5442611,
+        "lng": -121.7421764
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.54554838029149,
+          "lng": -121.7409802197085
+        },
+        "southwest": {
+          "lat": 38.54285041970849,
+          "lng": -121.7436781802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Cafe Bernardo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103535137547597009501\">Jason Ballard</a>"
+        ],
+        "photo_reference": "AUc7tXUur71jvBbxz9NKAwel8Swv_onEQZ1XbiA3f8GZXD49acdMSgygBQst2-0kfh08v1r1dSPWbDAMs2XYfNkBx7O8-pXkt1rK1cbmjDqtOLst7MD9zJ2drCpAOc6MFMzGb5KiVtlmtzb6DRgTwqyl13RjYJP4ffbZm4xje7fhExEqmv2H",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJD4SWrXQphYARB8769eSqt2E",
+    "plus_code": {
+      "compound_code": "G7V5+P4 Davis, CA, USA",
+      "global_code": "84CWG7V5+P4"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJD4SWrXQphYARB8769eSqt2E",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bar",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1038,
+    "vicinity": "234 D Street, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.543274,
+        "lng": -121.742499
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.54468628029149,
+          "lng": -121.7410293697085
+        },
+        "southwest": {
+          "lat": 38.54198831970849,
+          "lng": -121.7437273302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Hunan Bar & Restaurant",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105690232191229458436\">Constantia Oomen</a>"
+        ],
+        "photo_reference": "AUc7tXWctQK_afJ1LAfEijykKNxgnJbSyFWZDO63-8fcQXnukO5xWyUat9USfGfX16uJQ5rD1IwN0rKqewk0fK_zNfWyq_hrNuMN2cCAsuWq5qhQtIzsLCCMkcfhgaXSqWMxc46iVcuDr9Af_hmjW40BY2xu9bfk8-D9jXJslwTOpC2c8HJ_",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJEd8EMMnWmoARDW4_zFp12YU",
+    "plus_code": {
+      "compound_code": "G7V5+82 Davis, CA, USA",
+      "global_code": "84CWG7V5+82"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJEd8EMMnWmoARDW4_zFp12YU",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 332,
+    "vicinity": "207 D Street, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.544236,
+        "lng": -121.741526
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5455818302915,
+          "lng": -121.7400848697085
+        },
+        "southwest": {
+          "lat": 38.5428838697085,
+          "lng": -121.7427828302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Cultiv\u00e9 Frozen Yogurt",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1702,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110635810040400120015\">Cultiv\u00e9 Frozen Yogurt</a>"
+        ],
+        "photo_reference": "AUc7tXWXGeybO5ol5iEQ6SmPb_Th3jgDXJ1-qnI88dNXdvsv12eXwCXOyKh-KdJX9-dBv6Xmd9qIGdIc4XK35ihfHqHNi0CSKyGVdlimt-HRqwA0hHYglTEbmdwV23A7oZ_WXxm9tyZNLYjV66Uw8xY3ySuDqqTIGo0bRHAWaCo_br808TDw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJFwe_pXQphYARWdxPC90PZLM",
+    "plus_code": {
+      "compound_code": "G7V5+M9 Davis, CA, USA",
+      "global_code": "84CWG7V5+M9"
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "ChIJFwe_pXQphYARWdxPC90PZLM",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_takeaway",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 105,
+    "vicinity": "231 E Street, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.5427461,
+        "lng": -121.7413622
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5441272302915,
+          "lng": -121.7398069697085
+        },
+        "southwest": {
+          "lat": 38.5414292697085,
+          "lng": -121.7425049302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Sophia's Thai Kitchen",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110733877683806331939\">Sophia&#39;s Thai Kitchen</a>"
+        ],
+        "photo_reference": "AUc7tXU06Tj7iTWwv10fsTBSAr_yXTnFc2rcX7xdZ6VP91F3T-hh9RGeF55-V2DisUigqHK9X4V8ekTyikl-pHAW8Twi2nD2YuGq4TWMD-2_GhksiPSL71Tmn6sH1YK_Wj-CFwaylbvnlFtbMAjzXTHSoAu1U4x13FP37nuKpUOy0NTderBV",
+        "width": 1499
+      }
+    ],
+    "place_id": "ChIJE-m5F3MphYARRKJ-Y_YRlmw",
+    "plus_code": {
+      "compound_code": "G7V5+3F Davis, CA, USA",
+      "global_code": "84CWG7V5+3F"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJE-m5F3MphYARRKJ-Y_YRlmw",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 818,
+    "vicinity": "129 E Street, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.5423788,
+        "lng": -121.7394233
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5436641802915,
+          "lng": -121.7381873697085
+        },
+        "southwest": {
+          "lat": 38.5409662197085,
+          "lng": -121.7408853302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Seasons Kitchen & Bar",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2161,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116304879292566619224\">Seasons</a>"
+        ],
+        "photo_reference": "AUc7tXWapvMIFPqyITVfaJN1ZzfgDa9URADI0OnvgCD-Vsh4MP6mYdAuo7X214hpmUvKOZuScc5mmb3a_36qfjXoK2hcTu52w8uf7TAAtpz9w8SDesmGIv6Z6wJH5-3eqOD9HPP0Aa6M9rEEfC3IkSxmDvhCSs12GgiMH62zIsFbJ4_f_eVp",
+        "width": 2990
+      }
+    ],
+    "place_id": "ChIJO-msAHMphYARojWU-2Nf_EA",
+    "plus_code": {
+      "compound_code": "G7R6+X6 Davis, CA, USA",
+      "global_code": "84CWG7R6+X6"
+    },
+    "price_level": 3,
+    "rating": 4.3,
+    "reference": "ChIJO-msAHMphYARojWU-2Nf_EA",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 261,
+    "vicinity": "102 F Street, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.544338,
+        "lng": -121.73926
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5456763802915,
+          "lng": -121.7378247197085
+        },
+        "southwest": {
+          "lat": 38.5429784197085,
+          "lng": -121.7405226802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Red 88 - Davis",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107499878377924728543\">Red 88 - Davis</a>"
+        ],
+        "photo_reference": "AUc7tXVavKtL9qLRtCNmyVWTZYUP8pKZiMFfpGtlm44K21i_-NltjNIpQl7nwTdfL1mgpQ6sL59T3q6VrcIY-gW5ieqmHGF8kNcqql21to7vnmR1Q-zKWYe-az6fhyfIzYUwmf7w6y5CEqZKza4ZzCBI1NK9ig9H6NAanhmql2-WzuN6NO23",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJO1IngXMphYARO402r5zkGt4",
+    "plus_code": {
+      "compound_code": "G7V6+P7 Davis, CA, USA",
+      "global_code": "84CWG7V6+P7"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJO1IngXMphYARO402r5zkGt4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 387,
+    "vicinity": "223 G Street, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.5428376,
+        "lng": -121.7407771
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5444002302915,
+          "lng": -121.7393840197085
+        },
+        "southwest": {
+          "lat": 38.5417022697085,
+          "lng": -121.7420819802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Zen Toro Japanese Bistro",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4284,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111051004178321502442\">Parmesh Joshi</a>"
+        ],
+        "photo_reference": "AUc7tXULMbdQXkch0kVGOmyL-Jf8P_R7oItIOK3oYR4_cWFrVkXnU1dDMMUXEi1H-JOsvNBEc3rckxYsG1xm_QHpmOBEuHjilyn21SgjgoCU4F7J98eiJmSKmr8xZAIo2jFhhz-TFwau7xTTgerslbiDnWiR9mWTVbvApOGkLvF-Xqi0f4hY",
+        "width": 5712
+      }
+    ],
+    "place_id": "ChIJ92qFE3MphYAR6SoziozmNM4",
+    "plus_code": {
+      "compound_code": "G7V5+4M Davis, CA, USA",
+      "global_code": "84CWG7V5+4M"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJ92qFE3MphYAR6SoziozmNM4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 285,
+    "vicinity": "132 E Street #100, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.5446499,
+        "lng": -121.7388929
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5459801302915,
+          "lng": -121.7376785197085
+        },
+        "southwest": {
+          "lat": 38.5432821697085,
+          "lng": -121.7403764802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Kathmandu Kitchen",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110919135385696323471\">Gavin Zau</a>"
+        ],
+        "photo_reference": "AUc7tXUTqf-6VeFOUd-mfDT975Immu1VwxU6HfhAsiUo8OhTiyEDB6SgOyuvz77rJM4m9hL4nSBP69COObctYlDvMSqwdIRLQisfDlJfjjHowkt8pXEW8x5LNKbrFIFohgR6-FSLk2IhrcV9FHU6ganLLscxz6oCAU2TFIzbtLPgZQNDxmUB",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJcyP3h3MphYARLN9yBMu6_0M",
+    "plus_code": {
+      "compound_code": "G7V6+VC Davis, CA, USA",
+      "global_code": "84CWG7V6+VC"
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJcyP3h3MphYARLN9yBMu6_0M",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 366,
+    "vicinity": "234 G Street, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.5433203,
+        "lng": -121.7390342
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5446192302915,
+          "lng": -121.7375759697085
+        },
+        "southwest": {
+          "lat": 38.5419212697085,
+          "lng": -121.7402739302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Paesanos",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 6336,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105194757370524491471\">Sacramento Food Review</a>"
+        ],
+        "photo_reference": "AUc7tXVIB2oXYxo-5RIdeirbA6ekH7E1Xd7wyWstX1FXYcafWQdVG5GBSh0knqXOLCeVpfiOrfuZhHtLWVNqFCO5Ok_EPEbvIcT6EV2Us8TCFmTFoAdq6c9jdVGfRtbo6aa1SwMFjmUFppRKKvBGhsK8wZAYSO20DL2zASh88eHajCr4kMzB",
+        "width": 9504
+      }
+    ],
+    "place_id": "ChIJkUhmonMphYARMcwrjCo4fgs",
+    "plus_code": {
+      "compound_code": "G7V6+89 Davis, CA, USA",
+      "global_code": "84CWG7V6+89"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJkUhmonMphYARMcwrjCo4fgs",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 952,
+    "vicinity": "139 G Street, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.5441654,
+        "lng": -121.7405575
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5455281802915,
+          "lng": -121.7390174197085
+        },
+        "southwest": {
+          "lat": 38.5428302197085,
+          "lng": -121.7417153802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Taqueria El Burrito",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2001,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103022994354491410340\">Taqueria El Burrito</a>"
+        ],
+        "photo_reference": "AUc7tXWiSu9aVSh0XGVSuIVnFayJEkM_cKztGIktdlQpJuiW64icfCVfV14oR8IY4CKu0VRry5CEe9ydUd3TVcJpZ_VaF376Cr4SLz_NeTBH1DZn6ACOWnTCelQcqbzAMnTz8P_EnT-FuL37GelKQbHgcDgsdgvD-_Tzd9dDWyi1-jgOLpcQ",
+        "width": 1125
+      }
+    ],
+    "place_id": "ChIJzxV3nXQphYARdIwu-B_qcGo",
+    "plus_code": {
+      "compound_code": "G7V5+MQ Davis, CA, USA",
+      "global_code": "84CWG7V5+MQ"
+    },
+    "price_level": 1,
+    "rating": 4.3,
+    "reference": "ChIJzxV3nXQphYARdIwu-B_qcGo",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 896,
+    "vicinity": "223 F Street, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.543803,
+        "lng": -121.742096
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5451300802915,
+          "lng": -121.7408785197085
+        },
+        "southwest": {
+          "lat": 38.5424321197085,
+          "lng": -121.7435764802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "The Mustard Seed",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115194170995665916599\">The Mustard Seed</a>"
+        ],
+        "photo_reference": "AUc7tXXVSrY_ihe1lhvyArtI8QtNhvkVv1ziRdlgNv0NLcytNEB6csAxA3ltrlbu3z7RFiLLdaXVBBhFIbtPSiyJmuVZBY56yjY6OQosdREg7aNk9R-bpNHU4eW4kqu4Vu74acwUI9XmFFp18Y5TyCjZk-KWfGrq13QoCcMTiapujXdpyFs",
+        "width": 6016
+      }
+    ],
+    "place_id": "ChIJezDUq3QphYAROm_Aht_oaAc",
+    "plus_code": {
+      "compound_code": "G7V5+G5 Davis, CA, USA",
+      "global_code": "84CWG7V5+G5"
+    },
+    "price_level": 3,
+    "rating": 4.5,
+    "reference": "ChIJezDUq3QphYAROm_Aht_oaAc",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 268,
+    "vicinity": "222 D Street #11, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.544299,
+        "lng": -121.7409279
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5454946302915,
+          "lng": -121.7396132697085
+        },
+        "southwest": {
+          "lat": 38.5427966697085,
+          "lng": -121.7423112302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Yeti Restaurant",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 5712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114363170432305474163\">Bryant Palmer</a>"
+        ],
+        "photo_reference": "AUc7tXWnxzUz0T2McY5amMn2IbFtvmYE1S_JnEHCFpnrg7iHGZe9ZILXIWAXFNFD54knZyMvpnKK6Mwe5qB06mV4QYu-smd1fUj8BktKwebeG8AiARbJP5hyQbh--TUT-5wNMGVKvWBCXnuE2Wa0JsuFiUaEOjD2L9uKY5adQaOGBmF4zH4e",
+        "width": 4284
+      }
+    ],
+    "place_id": "ChIJL7BaX3MphYARGLMXuX1dfEs",
+    "plus_code": {
+      "compound_code": "G7V5+PJ Davis, CA, USA",
+      "global_code": "84CWG7V5+PJ"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJL7BaX3MphYARGLMXuX1dfEs",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 435,
+    "vicinity": "234 E Street, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.5439197,
+        "lng": -121.7387885
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5453183802915,
+          "lng": -121.7374881197085
+        },
+        "southwest": {
+          "lat": 38.5426204197085,
+          "lng": -121.7401860802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Open Rice Kitchen",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107027995560599304671\">bartellj</a>"
+        ],
+        "photo_reference": "AUc7tXWRhPLP1vTReL8jgCy_XZKnFHMDsIovwl5MhZ-i0XY8drrQDij4YxCZ6YRyPMryj1bWJWW-ZzZREaehVr2TY5RjKpPTo2FwxrK8rNRZ4TJjU37jzqfTGhd5HLXgUDDfaT6j7rC_mGGkEKAf9dpLofwXufu7bKr-AZNTrbAUneZkTcQd",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJZSAxmnMphYAR8GxaL7kFMTU",
+    "plus_code": {
+      "compound_code": "G7V6+HF Davis, CA, USA",
+      "global_code": "84CWG7V6+HF"
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reference": "ChIJZSAxmnMphYAR8GxaL7kFMTU",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 427,
+    "vicinity": "Chen Building, 204 G Street, Davis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 38.5487671,
+        "lng": -121.7349319
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.5501318302915,
+          "lng": -121.7334953697085
+        },
+        "southwest": {
+          "lat": 38.5474338697085,
+          "lng": -121.7361933302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Taqueria Davis",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100361300338508220761\">Sree Sreenivasan</a>"
+        ],
+        "photo_reference": "AUc7tXXgpFMayhM-EZRJC_zZgeL_vRN-67f_WDVHkqWDur0-OkrlKs4T-kliDS8It-2xDFsWx0yILg9jt8XnecXFBQbKAcqwYLHf1Hmrgq3NEf-KxxteccYlNE-zdAKDMu6Jqz4nVTRQkVO2x84vSI8FxUqPqGRPvi9sPplKqWbB1MDFyGGN",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJT9yzWnYphYARV18NZv93Yc0",
+    "plus_code": {
+      "compound_code": "G7X8+G2 Davis, CA, USA",
+      "global_code": "84CWG7X8+G2"
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "ChIJT9yzWnYphYARV18NZv93Yc0",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 553,
+    "vicinity": "505 L Street, Davis"
+  }
+]
